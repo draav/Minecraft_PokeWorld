@@ -1,0 +1,20 @@
+{
+  "pallet": {
+    "category": "music",
+    "sounds": [
+      "pallet"
+    ]
+  },
+  "route1": {
+    "category": "music",
+    "sounds": [
+      "route1"
+    ]
+  },
+  "ocean": {
+    "category": "music",
+    "sounds": [
+      "ocean"
+    ]
+  }
+}
