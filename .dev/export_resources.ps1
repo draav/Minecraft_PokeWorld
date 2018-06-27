@@ -1,4 +1,4 @@
 # Nicholas Devlin
-# Archive resource pack ignoring any hidden directories
+# Archive resources pack ignoring any hidden directories
 
-7z a -tzip -xr'!.*' resources. $PSScriptRoot\..\
+7z a -tzip -xr'!.*' -x!resources resources. $PSScriptRoot\..\
