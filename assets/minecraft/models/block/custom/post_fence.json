@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/cross",
 	"textures": {
-		"cross": "custom/exterior_post",
-		"particle": "custom/exterior_post"
+		"cross": "custom/post_fence",
+		"particle": "custom/post_fence"
 	},
 	"elements": [
 		{
@@ -22,9 +21,7 @@
 			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
 			}
 		}
