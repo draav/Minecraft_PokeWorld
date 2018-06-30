@@ -2,8 +2,8 @@
     "parent": "block/half_slab",
     "textures": {
         "side": "custom/roof_blue_side",
-        "top": "custom/roof_blue_slant",
-        "bottom": "custom/roof_blue_slant"
+        "top": "custom/roof_blue_pitch",
+        "bottom": "custom/roof_blue_pitch"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

@@ -5,8 +5,8 @@
         "down": "custom/roof_blue_pitch",
         "up": "custom/roof_blue_pitch",
         "north": "custom/roof_blue_side",
-        "east": "custom/roof_blue_slant",
+        "east": "custom/roof_blue_pitch",
         "south": "custom/roof_blue_side",
-        "west": "custom/roof_blue_slant"
+        "west": "custom/roof_blue_pitch"
     }
 }
