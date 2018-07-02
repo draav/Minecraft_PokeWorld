@@ -1,0 +1,21 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "particle": "blocks/cobblestone",
+        "ground": "blocks/cobblestone",
+        "ledge": "custom/ledge"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#ground", "cullface": "down" },
+                "up":    { "texture": "#ground", "cullface": "up" },
+                "north": { "texture": "#ground", "cullface": "north" },
+                "south": { "texture": "#ledge", "cullface": "south" },
+                "west":  { "texture": "#ledge", "cullface": "west" },
+                "east":  { "texture": "#ledge", "cullface": "east" }
+            }
+        }
+    ]
+}
