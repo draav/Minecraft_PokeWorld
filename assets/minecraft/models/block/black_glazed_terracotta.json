@@ -1,0 +1,22 @@
+{
+    "parent": "block/glazed_terracotta",
+    "textures": {
+        "particle": "custom/furniture_top",
+        "top": "custom/furniture_top",
+        "front_left": "custom/furniture_cabinet",
+        "side_left": "custom/furniture_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#top", "cullface": "down" },
+                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#top", "cullface": "up" },
+                "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#side_left", "cullface": "north"},
+                "south": { "uv": [ 0,  0, 16, 16 ], "texture": "#front_left", "cullface": "south"},
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side_left", "cullface": "west"},
+                "east":  { "uv": [ 16, 0, 0, 16 ], "texture": "#front_left", "cullface": "east"}
+            }
+        }
+    ]
+}
