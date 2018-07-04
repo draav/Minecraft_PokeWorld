@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "custom/furniture_table_top",
+        "down": "custom/furniture_table_top",
+        "up": "custom/furniture_table_top",
+        "north": "custom/furniture_table_side",
+        "east": "custom/furniture_table_side",
+        "south": "custom/furniture_table_side",
+        "west": "custom/furniture_table_side"
+    }
+}
