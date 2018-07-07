@@ -4,6 +4,7 @@
 		"side": "custom/furniture_tv_side",
 		"top": "custom/furniture_tv_top",
 		"front": "custom/furniture_tv_front",
+		"back": "custom/furniture_tv_back",
 		"particle": "custom/furniture_tv_side"
 	},
 	"elements": [
@@ -11,7 +12,7 @@
 			"from": [0, 0, 0],
 			"to": [32, 22, 16],
 			"faces": {
-				"north": {"uv": [0, 5, 16, 16], "texture": "#front", "cullface": "north"},
+				"north": {"uv": [0, 5, 16, 16], "texture": "#back", "cullface": "north"},
 				"east": {"uv": [0, 0, 10, 11], "texture": "#side", "rotation": 180, "cullface": "east"},
 				"south": {"uv": [0, 5, 16, 16], "texture": "#front", "cullface": "south"},
 				"west": {"uv": [0, 0, 10, 11], "texture": "#side", "cullface": "west"},
