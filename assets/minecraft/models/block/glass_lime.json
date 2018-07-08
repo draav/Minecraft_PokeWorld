@@ -1,16 +1,16 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"side": "custom/furniture_tv_side",
-		"top": "custom/furniture_tv_top",
-		"front": "custom/furniture_tv_front",
-		"back": "custom/furniture_tv_back",
-		"particle": "custom/furniture_tv_side"
+		"side": "custom/computer_monitor_side",
+		"top": "custom/computer_monitor_top",
+		"front": "custom/computer_monitor_front",
+		"back": "custom/computer_monitor_back",
+		"particle": "custom/computer_monitor_front"
 	},
 	"elements": [
 		{
-			"from": [-16, 0, 0],
-			"to": [16, 22, 16],
+			"from": [-12, 0, 2],
+			"to": [12, 22, 14],
 			"faces": {
 				"north": {"uv": [0, 5, 16, 16], "texture": "#back", "cullface": "north"},
 				"east": {"uv": [10, 0, 0, 11], "texture": "#side", "cullface": "east"},
