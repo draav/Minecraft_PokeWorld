@@ -5,7 +5,7 @@
         "contents=blue_orchid":      { "model": "custom/post_barrier" },
         "contents=allium":           { "model": "custom/tree_barrier" },
         "contents=houstonia":        { "model": "flower_pot_houstonia" },
-        "contents=red_tulip":        { "model": "flower_pot_tulip_red" },
+        "contents=red_tulip":        { "model": "custom/sign" },
         "contents=orange_tulip":     { "model": "flower_pot_tulip_orange" },
         "contents=white_tulip":      { "model": "flower_pot_tulip_white" },
         "contents=pink_tulip":       { "model": "flower_pot_tulip_pink" },
