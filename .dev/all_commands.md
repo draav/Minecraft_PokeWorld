@@ -33,9 +33,9 @@ These settings need to be given to all players when they first join the map.
 `/recipe give <player> *`: prevents players from getting the contant recipe updates  
 `/effect <player> minecraft:night_vision 1000000`: allows players to see while underground  
 
-## Command Blocks
+## Doors and teleporters
 
-There are many command blocks placed around the map to enable functionality. Mostly for doors though.
+There are many command blocks placed around the map to teleport you when going into doors or tp pads
 
 ### Pallet Town
 
@@ -53,3 +53,6 @@ There are many command blocks placed around the map to enable functionality. Mos
 
 **enter**: `tp @a[x=14,y=102,z=12,dx=1,dy=0,dz=0] 5 92 12`  
 **exit**: `tp @a[x=6,y=92,z=14,dx=1,dy=0,dz=0] 14 102 13`  
+
+# Armorstands
+
