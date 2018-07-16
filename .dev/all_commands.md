@@ -54,5 +54,11 @@ There are many command blocks placed around the map to teleport you when going i
 **enter**: `tp @a[x=14,y=102,z=12,dx=1,dy=0,dz=0] 5 92 12`  
 **exit**: `tp @a[x=6,y=92,z=14,dx=1,dy=0,dz=0] 14 102 13`  
 
-# Armorstands
+## Paintings
+
+Used for the signs on buildings. This lets me place them at my feet on the wall I'm looking at, without having to click 300 times.
+
+**Poke**: `/summon Painting ~ ~ ~ {Motive:Match}`
+**Mart**: `/summon Painting ~ ~ ~ {Motive:Bust}`
+**Gym**: `/summon Painting ~ ~ ~ {Motive:Pool}`
 
