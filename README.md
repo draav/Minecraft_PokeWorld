@@ -13,4 +13,4 @@ When developing on windows I used this script  to copy my resources directly int
 
 If you want to put it somewhere else you can use parameters to adjust it:
 
-`powershell scripts/export_resources.ps1 -path $APPDATA/.minecraft/resourcepacks -name PokeWorld_test`
+`powershell scripts/export_resources.ps1 -resource_target $APPDATA/.minecraft/resourcepacks/PokeWorld_test`
