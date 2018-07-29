@@ -7,6 +7,10 @@ Download the latest Minecraft_PokeWorld_vX.X.X zip folder from https://github.co
 
 ## Export resources to map
 
-When developing on windows I used this script  to copy my resources directly into the world file. This way when I reload the world I instantly get my changes visible. If I don't use any parameters it just gets copied into the resourcepacks folder.
+When developing on windows I used this script  to copy my resources directly into the world file. This way when I reload the world I instantly get my changes visible. The default command will just export the pack directly to the world save folder (`/PokeWorld`):
 
-`powershell .dev/export_resources.ps1 -path $APPDATA\\.minecraft\\saves\\Minecraft_PokeWorld -name resources`
+`powershell scripts/export_resources.ps1`
+
+If you want to put it somewhere else you can use parameters to adjust it:
+
+`powershell scripts/export_resources.ps1 -path $APPDATA/.minecraft/resourcepacks -name PokeWorld_test`

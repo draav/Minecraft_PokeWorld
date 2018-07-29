@@ -4,7 +4,7 @@ All commands used when creating the world
 
 ## World Generation
 
-Command I ran after generating the world to give it certain features.
+Commands I ran after generating the world to give it certain features.
 
 `/gamerule commandBlockOutput false`: prevents command blocks from being annoying and spamming chat  
 `/gamerule doFireTick false`: prevents fire from spreading or going out    
@@ -14,7 +14,6 @@ Command I ran after generating the world to give it certain features.
 `/gamerule doEntityDrops false`: if a non-mob entity breaks it won't drop items  
 `/gamerule mobGriefing false`: creepers can't blow things up. (It should be impossible for them to ever spawn, but I don't trust the bastards)  
 `/gamerule randomTickSpeed 0`: prevents in game ticks, mostly to prevent sapling growth, but it also prevents [numerous other things](https://minecraft.gamepedia.com/Tick#Block_tick) I wouldn't want to happen.   
-
 `/difficulty 0`  
 `/setworldspawn 0 102 0`  
 
@@ -62,3 +61,10 @@ Used for the signs on buildings. This lets me place them at my feet on the wall 
 **Mart**: `/summon Painting ~ ~ ~ {Motive:Bust}`
 **Gym**: `/summon Painting ~ ~ ~ {Motive:Pool}`
 
+## Signs
+
+It was too difficult to actually write text on the signs, so I cheated and placed some Area Effect Clouds with name tags to simulate looking at a sign. It's great since you can read them from any direction.
+
+`/summon area_effect_cloud ~ ~1 ~ {CustomName:""First line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
+
+`/summon area_effect_cloud ~ ~.78 ~ {CustomName:""Second line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
