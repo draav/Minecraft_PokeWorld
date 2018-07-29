@@ -1,0 +1,6 @@
+{
+	"parent": "block/custom/flat",
+	"textures": {
+		"texture": "custom/railing"
+	}
+}
