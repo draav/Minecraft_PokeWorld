@@ -1,5 +1,5 @@
 {
-    "parent": "block/glazed_terracotta",
+    "parent": "block/custom/terracotta_rotated",
     "textures": {
         "particle": "custom/furniture_top",
         "top": "custom/furniture_top",

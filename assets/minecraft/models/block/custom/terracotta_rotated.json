@@ -1,5 +1,5 @@
 {
-    "parent": "block/cube",
+    "parent": "block/glazed_terracotta",
     "display": {
         "firstperson_righthand": {
             "rotation": [ 0, 135, 0 ],

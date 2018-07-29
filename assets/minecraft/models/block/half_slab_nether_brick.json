@@ -2,7 +2,8 @@
     "parent": "block/half_slab",
     "textures": {
         "ground": "blocks/cobblestone",
-        "ledge": "custom/ledge"
+        "ledge": "custom/ledge",
+        "particle": "custom/ledge"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
