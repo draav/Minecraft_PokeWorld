@@ -1,0 +1,5 @@
+{
+    "multipart": [
+        {   "apply": { "model": "custom/roof_blue_side", "y": 180 }}
+    ]
+}
