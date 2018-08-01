@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "custom/roof_red_pitch",
+        "down": "custom/roof_red_pitch",
+        "up": "custom/roof_red_pitch",
+        "north": "custom/roof_red_side",
+        "east": "custom/roof_red_pitch",
+        "south": "custom/roof_red_side",
+        "west": "custom/roof_red_pitch"
+    }
+}

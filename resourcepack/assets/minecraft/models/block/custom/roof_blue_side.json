@@ -1,8 +1,8 @@
 {
     "parent": "block/custom/roof_side",
     "textures": {
-        "front_back": "custom/roof_blue_side",
-        "side": "custom/roof_blue_pitch",
+        "front_back": "custom/roof_blue_pitch",
+        "side": "custom/roof_blue_side",
         "top": "custom/roof_blue_pitch",
         "bottom": "custom/roof_blue_pitch",
         "particle": "custom/roof_blue_pitch"
