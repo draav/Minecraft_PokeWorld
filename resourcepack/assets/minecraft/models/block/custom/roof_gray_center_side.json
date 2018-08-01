@@ -1,0 +1,10 @@
+{
+    "parent": "block/custom/roof_side",
+    "textures": {
+        "side": "custom/roof_gray_side",
+        "front_back": "custom/roof_gray_side",
+        "top": "custom/roof_gray_top_center",
+        "bottom": "custom/roof_gray_bottom",
+        "particle": "custom/roof_gray_side"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "multipart": [
+        {   "apply": { "model": "custom/roof_gray_center_side" }}
+    ]
+}
