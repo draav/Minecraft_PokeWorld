@@ -9,7 +9,7 @@
         "contents=orange_tulip":     { "model": "custom/railing_end" },
         "contents=white_tulip":      { "model": "custom/railing_north" },
         "contents=pink_tulip":       { "model": "custom/railing_east" },
-        "contents=oxeye_daisy":      { "model": "flower_pot_daisy" },
+        "contents=oxeye_daisy":      { "model": "custom/monster" },
         "contents=dandelion":        { "model": "flower_pot_dandelion" },
         "contents=oak_sapling":      { "model": "flower_pot_oak" },
         "contents=spruce_sapling":   { "model": "flower_pot_spruce" },
