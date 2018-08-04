@@ -57,9 +57,12 @@ There are many command blocks placed around the map to teleport you when going i
 
 Used for the signs on buildings. This lets me place them at my feet on the wall I'm looking at, without having to click 300 times.
 
-**Poke**: `/summon Painting ~ ~ ~ {Motive:Match}`
-**Mart**: `/summon Painting ~ ~ ~ {Motive:Bust}`
+**Pokecenter**: `/summon Painting ~ ~ ~ {Motive:Match}`
+**Pokemart**: `/summon Painting ~ ~ ~ {Motive:Bust}`
 **Gym**: `/summon Painting ~ ~ ~ {Motive:Pool}`
+**Pillar Sign**: `/summon Painting ~ ~ ~ {Motive:Sea}`
+
+There is also a `Facing` value (0 is south, 1 is west, 2 is north, and 3 is east), but the default is 0, so never have to modify that.
 
 ## Signs
 
