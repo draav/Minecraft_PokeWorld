@@ -5,19 +5,13 @@ Repository to store a Minecraft map and resource pack for PokeWorld recreation.
 
 [Download the latest `Minecraft_PokeWorld_vX.X.X` zip folder](https://github.com/draav/Minecraft_PokeWorld/releases/latest) then copy to your saves folder and unzip it. There are more detailed instructions on where to to find your saves folder available [on the wiki](https://minecraft.gamepedia.com/Tutorials/Map_downloads#Importing_into_Minecraft). You should see a file structure something like:
 
-`.minecraft`
-
-> `saves`
-> 
-> > `Minecraft_Pokeworld_vX.X.X`
-> > 
-> > > `advancements`
-> > > 
-> > > `data`
-> > > 
-> > > `DIM1`
-> > > 
-> > > ...
+* `.minecraft`
+  * `saves`
+    * `Minecraft_Pokeworld_vX.X.X`
+    * `advancements`
+    * `data`
+    * `DIM1`
+    * ...
 
 
 ## Export resources to map
