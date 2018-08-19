@@ -3,7 +3,7 @@
 
 param (
     [string]$resource_source = "$PSScriptRoot\..\resourcepack\*",
-    [string]$resource_target = "$env:APPDATA\.minecraft\saves\PokeWorld_1_12\resources"
+    [string]$resource_target = "$env:APPDATA\.minecraft\saves\PokeWorld_1_13\resources"
     # [string]$data_source = "$PSScriptRoot\..\datapack\*",
     # [string]$data_target = "$env:APPDATA\.minecraft\saves\PokeWorld_1_13\datapacks\pokeworld"
 )
