@@ -8,10 +8,10 @@ Repository to store a Minecraft map and resource pack for PokeWorld recreation.
 * `.minecraft`
   * `saves`
     * `Minecraft_Pokeworld_vX.X.X`
-    * `advancements`
-    * `data`
-    * `DIM1`
-    * ...
+      * `advancements`
+      * `data`
+      * `DIM1`
+      * ...
 
 
 ## Export resources to map
