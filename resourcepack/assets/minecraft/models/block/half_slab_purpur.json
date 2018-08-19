@@ -1,7 +1,7 @@
 {
     "parent": "block/half_slab",
     "textures": {
-        "ground": "blocks/coarse_dirt",
+        "ground": "block/coarse_dirt",
         "ledge": "custom/ledge",
         "particle": "custom/ledge"
     },

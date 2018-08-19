@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/concrete_white",
+        "all": "block/white_concrete",
         "outline": "custom/building_siding_outline"
     },
     "elements": [
