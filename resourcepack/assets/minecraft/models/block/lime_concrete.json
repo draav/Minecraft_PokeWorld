@@ -1,12 +1,12 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "particle": "custom/roof_blue_pitch",
-        "down": "custom/roof_blue_pitch",
-        "up": "custom/roof_blue_pitch",
-        "north": "custom/roof_blue_side",
-        "east": "custom/roof_blue_pitch",
-        "south": "custom/roof_blue_side",
-        "west": "custom/roof_blue_pitch"
+        "particle": "block/custom/roof_blue_pitch",
+        "down": "block/custom/roof_blue_pitch",
+        "up": "block/custom/roof_blue_pitch",
+        "north": "block/custom/roof_blue_side",
+        "east": "block/custom/roof_blue_pitch",
+        "south": "block/custom/roof_blue_side",
+        "west": "block/custom/roof_blue_pitch"
     }
 }

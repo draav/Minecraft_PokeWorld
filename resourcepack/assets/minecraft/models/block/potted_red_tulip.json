@@ -1,0 +1,19 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"front": "block/custom/sign_exterior",
+		"back": "block/custom/sign_exterior_back",
+		"particle": "block/custom/sign_exterior"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 15],
+			"to": [16, 32, 15],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#back", "cullface": "north"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#front", "cullface": "south"}
+			}
+		}
+	]
+}

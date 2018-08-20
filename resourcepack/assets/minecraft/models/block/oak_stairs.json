@@ -1,9 +1,9 @@
 {
     "parent": "block/stairs",
     "textures": {
-        "particle": "custom/stairs_wood_top",
-        "top": "custom/stairs_wood_top",
-        "side": "custom/stairs_wood_side"
+        "particle": "block/custom/stairs_wood_top",
+        "top": "block/custom/stairs_wood_top",
+        "side": "block/custom/stairs_wood_side"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

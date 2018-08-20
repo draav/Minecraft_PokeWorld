@@ -1,10 +1,10 @@
 {
     "parent": "block/custom/terracotta_rotated",
     "textures": {
-        "particle": "custom/furniture_top",
-        "top": "custom/furniture_top",
-        "front_left": "custom/furniture_drawers_left",
-        "front_right": "custom/furniture_drawers_right",
-        "side_left": "custom/furniture_side"
+        "particle": "block/custom/furniture_top",
+        "top": "block/custom/furniture_top",
+        "front_left": "block/custom/furniture_drawers_left",
+        "front_right": "block/custom/furniture_drawers_right",
+        "side_left": "block/custom/furniture_side"
     }
 }

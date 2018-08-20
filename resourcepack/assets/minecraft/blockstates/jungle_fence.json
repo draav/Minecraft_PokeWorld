@@ -1,5 +1,5 @@
 {
     "multipart": [
-        {   "apply": { "model": "jungle_fence_post" }}
+        {   "apply": { "model": "block/jungle_fence_post" }}
     ]
 }

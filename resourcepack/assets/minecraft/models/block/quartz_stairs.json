@@ -3,6 +3,6 @@
     "textures": {
         "bottom": "block/stone",
         "top": "block/stone",
-        "side": "custom/buttress_victory_road"
+        "side": "block/custom/buttress_victory_road"
     }
 }
