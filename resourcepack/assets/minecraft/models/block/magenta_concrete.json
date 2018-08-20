@@ -1,12 +1,12 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "particle": "custom/furniture_table_top",
-        "down": "custom/furniture_table_top",
-        "up": "custom/furniture_table_top",
-        "north": "custom/furniture_table_side",
-        "east": "custom/furniture_table_side",
-        "south": "custom/furniture_table_side",
-        "west": "custom/furniture_table_side"
+        "particle": "block/custom/furniture_table_top",
+        "down": "block/custom/furniture_table_top",
+        "up": "block/custom/furniture_table_top",
+        "north": "block/custom/furniture_table_side",
+        "east": "block/custom/furniture_table_side",
+        "south": "block/custom/furniture_table_side",
+        "west": "block/custom/furniture_table_side"
     }
 }

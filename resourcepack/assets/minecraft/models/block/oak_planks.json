@@ -1,9 +1,9 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "particle": "blocks/planks_oak",
-        "top": "blocks/planks_oak",
-        "side": "custom/floor_wood_side"
+        "particle": "block/oak_planks",
+        "top": "block/oak_planks",
+        "side": "block/custom/floor_wood_side"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

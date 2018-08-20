@@ -40,27 +40,36 @@ There are many command blocks placed around the map to teleport you when going i
 
 #### Red House Door
 
-**enter**: `tp @a[x=-1,y=102,z=0,dx=1,dy=0,dz=0] 3 81 12`  
-**exit**: `tp @a[x=4,y=81,z=14,dx=1,dy=0,dz=0] 0 102 1`  
+**enter**: `tp @a[x=-1,y=102,z=0,dx=1,dy=0,dz=0] 3 80 12`  
+**exit**: `tp @a[x=4,y=80,z=14,dx=1,dy=0,dz=0] 0 102 1`  
 
 #### Blue House Door
 
-**enter**: `tp @a[x=15,y=102,z=0,dx=1,dy=0,dz=0] 3 74 12`  
-**exit**: `tp @a[x=4,y=74,z=14,dx=1,dy=0,dz=0] 15 102 1`  
+**enter**: `tp @a[x=15,y=102,z=0,dx=1,dy=0,dz=0] 3 73 12`  
+**exit**: `tp @a[x=4,y=73,z=14,dx=1,dy=0,dz=0] 15 102 1`  
 
 #### Oak Lab Door
 
-**enter**: `tp @a[x=14,y=102,z=12,dx=1,dy=0,dz=0] 5 92 12`  
-**exit**: `tp @a[x=6,y=92,z=14,dx=1,dy=0,dz=0] 14 102 13`  
+**enter**: `tp @a[x=13,y=102,z=12,dx=1,dy=0,dz=0] 5 92 12`  
+**exit**: `tp @a[x=6,y=92,z=14,dx=1,dy=0,dz=0] 13 102 13`  
 
 ## Paintings
 
 Used for the signs on buildings. This lets me place them at my feet on the wall I'm looking at, without having to click 300 times.
 
+1.12
+
 **Pokecenter**: `/summon Painting ~ ~ ~ {Motive:Match}`
 **Pokemart**: `/summon Painting ~ ~ ~ {Motive:Bust}`
 **Gym**: `/summon Painting ~ ~ ~ {Motive:Pool}`
 **Pillar Sign**: `/summon Painting ~ ~ ~ {Motive:Sea}`
+
+1.13
+
+**Pokecenter**: `/summon minecraft:painting ~ ~ ~ {Motive:match}`
+**Pokemart**: `/summon minecraft:painting ~ ~ ~ {Motive:bust}`
+**Gym**: `/summon minecraft:painting ~ ~ ~ {Motive:pool}`
+**Pillar Sign**: `/summon minecraft:painting ~ ~ ~ {Motive:sea}`
 
 There is also a `Facing` value (0 is south, 1 is west, 2 is north, and 3 is east), but the default is 0, so never have to modify that.
 
@@ -68,6 +77,10 @@ There is also a `Facing` value (0 is south, 1 is west, 2 is north, and 3 is east
 
 It was too difficult to actually write text on the signs, so I cheated and placed some Area Effect Clouds with name tags to simulate looking at a sign. It's great since you can read them from any direction.
 
-`/summon area_effect_cloud ~ ~1 ~ {CustomName:""First line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
+`/summon area_effect_cloud ~ ~.5 ~ {CustomName:""First line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
 
-`/summon area_effect_cloud ~ ~.78 ~ {CustomName:""Second line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
+`/summon area_effect_cloud ~ ~.28 ~ {CustomName:""Second line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
+
+`/summon area_effect_cloud ~ ~.06 ~ {CustomName:""First line of text"",CustomNameVisible:1,Duration:-1,WaitTime:-2147483648,Age:-2147483648}`
+
+`/kill @e[r=2,type=area_effect_cloud]`

@@ -1,5 +1,5 @@
 {
     "multipart": [
-        {   "apply": { "model": "custom/roof_blue_side" }}
+        {   "apply": { "model": "block/custom/roof_blue_side" }}
     ]
 }

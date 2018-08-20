@@ -1,11 +1,11 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"side": "custom/furniture_tv_side",
-		"top": "custom/furniture_tv_top",
-		"front": "custom/furniture_tv_front",
-		"back": "custom/furniture_tv_back",
-		"particle": "custom/furniture_tv_side"
+		"side": "block/custom/furniture_tv_side",
+		"top": "block/custom/furniture_tv_top",
+		"front": "block/custom/furniture_tv_front",
+		"back": "block/custom/furniture_tv_back",
+		"particle": "block/custom/furniture_tv_side"
 	},
 	"elements": [
 		{
