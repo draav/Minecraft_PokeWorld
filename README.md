@@ -23,3 +23,9 @@ When developing on windows I used this script  to copy my resources directly int
 If you want to put it somewhere else you can use parameters to adjust it:
 
 `powershell scripts/export_resources.ps1 -resource_target $APPDATA/.minecraft/resourcepacks/PokeWorld_test`
+
+## Things I wouldn't have ever made any progress without
+
+- [Texture Artists Union](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion)
+- [Minecraft Commands Community](https://www.reddit.com/r/MinecraftCommands/)
+- [The wiki](https://minecraft.gamepedia.com/Minecraft)
