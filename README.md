@@ -23,12 +23,12 @@ You will need to be in creative mode right now to fully explore the map. I haven
 
 If you ignore that previous warning and are in adventure mode: If you get stuck outside the barrier blocks surrounding the towns, there isn't really a way back in, so you'll have to fly or tp back. Also let me know how you even did that, so I can fix it.
 
-## Things I wouldn't have ever made any progress without
+## Tools and references
 
 - [Texture Artists Union](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion)
 - [Minecraft Commands Community](https://www.reddit.com/r/MinecraftCommands/)
 - [The wiki](https://minecraft.gamepedia.com/Minecraft)
-
+- [Minecraft Assets](https://mcasset.cloud/1.14.4/)
 ---
 
 If you are super interested for some reason, you can check what I am working on [in this Trello Board](https://trello.com/b/QoZHmXz3/minecraft-kanto). Feel free to let me know of any bugs you encounter or features you want to request by opening an issue in Github. 
