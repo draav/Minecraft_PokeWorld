@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/coral_wall_fan",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/custom/gym",
+		"sign": "block/custom/gym"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 15],
+			"to": [16, 16, 15],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#sign"}
+			}
+		}
+	]
+}
