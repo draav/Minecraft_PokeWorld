@@ -39,5 +39,7 @@ You will need to be in creative mode right now to fully explore the map. I haven
 
 You can check what I am working on [in this Trello Board](https://trello.com/b/QoZHmXz3/minecraft-kanto). Let me know of any bugs you encounter or features you want to request by opening an issue in Github. 
 
-I stream building the map and creating the resource pack on twitch: https://www.twitch.tv/nuumdraav. The videos sometimes get edited and uploaded to youtube: https://www.youtube.com/channel/UCt5wR4Iko4RJWu3UtYEvDlQ
+[Twitch](https://www.twitch.tv/nuumdraav): I stream building the map and creating the resource pack
+
+[Youtube](https://www.youtube.com/channel/UCt5wR4Iko4RJWu3UtYEvDlQ): The videos sometimes get edited and uploaded to youtube
 
