@@ -1,9 +1,9 @@
 {
-    "parent": "block/fence_post",
+    "parent": "block/block",
     "textures": {
-        "particle": "block/cobblestone",
         "ground": "block/cobblestone",
-        "ledge": "block/custom/ledge"
+        "ledge": "block/custom/ledge",
+        "particle": "block/custom/ledge"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
