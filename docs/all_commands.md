@@ -16,6 +16,7 @@ Commands I ran after generating the world to give it certain features.
 `/gamerule randomTickSpeed 0`: prevents in game ticks, mostly to prevent sapling growth, but it also prevents [numerous other things](https://minecraft.gamepedia.com/Tick#Block_tick) I wouldn't want to happen.   
 `/difficulty 0`  
 `/setworldspawn 0 102 0`  
+`/kill @e[type=!minecraft:player]` kill all mobs that happen to spawn before i disable mob spawning
 
 ## Developer Commands
 
